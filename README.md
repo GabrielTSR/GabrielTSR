@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/gabriel-tavares-silva-rocha-443a65211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://viral-seconds.000webhostapp.com/" target="_blank"><img height="30" src="./img/000webhost_image.jpg" target="_blank"></a>
 
-![Snake animation](https://github.com/GabrielTSR)
+![Snake animation](https://github.com/GabrielTSR/GabrielTSR/.github/workflows/snake.yml)
  
 </div>
   
