@@ -1,4 +1,4 @@
-### WELCOME TO MY GITHUB! 👋
+### HELLO! I'M GABRIEL, AND WELCOME TO MY GITHUB ACCOUNT! 👋
 
 <div>
   <a href="https://github.com/GabrielTSR">
@@ -16,6 +16,8 @@
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="my_sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="right" alt="myLife" height="200" width="300" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif">
+    
 </div>
   
   ##
