@@ -1,5 +1,13 @@
 ### HELLO! I'M GABRIEL, AND WELCOME TO MY GITHUB ACCOUNT! 👋
 
+##
+
+- 🏬 Learning place: SENAI Jandira
+- 🔭 I currently study: PHP; MySQL; ReactJS; and mobile applications using Kotlin
+- 📳 My phone number: +55(11)95454-5039
+
+##
+
 <div>
   <a href="https://github.com/GabrielTSR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTSR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,21 +38,3 @@
 ![Snake animation](https://github.com/GabrielTSR/GabrielTSR/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  ##
-
-
-<!--
-**GabrielTSR/GabrielTSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
