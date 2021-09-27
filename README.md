@@ -4,7 +4,6 @@
 
 - 🏬 Learning place: SENAI Jandira
 - 🔭 I currently study: PHP; MySQL; ReactJS; and mobile applications using Kotlin
-- 📳 My phone number: +55(11)95454-5039
 
 ##
 
