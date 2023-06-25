@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/myself.jpg" style="border-radius:10%; width:50vw; height: 30vw; object-fit: cover" width="200" alt="Nest Logo" />
+  <img src="./img/myself.jpg" style="border-radius:10%; width:25vw; height: 25vw; object-fit: cover" width="200" alt="Nest Logo" />
 </p>
 
 # Hello World! 👋
