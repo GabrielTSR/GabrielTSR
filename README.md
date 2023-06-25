@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/myself.jpg" style="border-radius:10%; width:25vw; height: 25vw; object-fit: cover" width="200" alt="Nest Logo" />
+  <img src="./img/myself.jpg" style="border-radius:10%;  width:25vw; height: 25vw; max-width: 90px; max-height: 90px; object-fit: cover" width="200" alt="Nest Logo" />
 </p>
 
 # Hello World! 👋
@@ -20,7 +20,9 @@
 
 ## About Me:
 
-I am Gabriel, a dedicated and ambitious individual currently studying at FIAP College and working at SENAI. I have a strong passion for technology and a relentless drive to expand my knowledge and skills in the field. I am constantly seeking opportunities to learn new technologies and stay updated with industry trends.
+```bash
+$ I am Gabriel, a dedicated and ambitious individual currently studying at FIAP College and working at SENAI. I have a strong passion for technology and a relentless drive to expand my knowledge and skills in the field. I am constantly seeking opportunities to learn new technologies and stay updated with industry trends.
+```
 
 ##
 
