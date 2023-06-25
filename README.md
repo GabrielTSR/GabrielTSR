@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/myself.jpg" width=100  alt="Nest Logo" />
+  <img src="./img/myself.jpg" width=150  alt="Nest Logo" />
 </p>
 
 # Hello World! 👋
