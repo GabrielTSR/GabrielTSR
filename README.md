@@ -21,7 +21,11 @@
 ## About Me:
 
 ```bash
-$ I am Gabriel, a dedicated and ambitious individual currently studying at FIAP College and working at SENAI. I have a strong passion for technology and a relentless drive to expand my knowledge and skills in the field. I am constantly seeking opportunities to learn new technologies and stay updated with industry trends.
+$ I am Gabriel, a dedicated and ambitious individual currently studying at FIAP College and working at SENAI.
+
+$ I have a strong passion for technology and a relentless drive to expand my knowledge and skills in the field.
+
+$ I am constantly seeking opportunities to learn new technologies and stay updated with industry trends.
 ```
 
 ##
