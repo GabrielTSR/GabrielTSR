@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./img/myself.jpg" width=150  alt="Nest Logo" />
-</p>
-
 # Hello World! 👋
 
 <div style="display:flex; justify-content: space-evenly;flex-wrap: wrap; gap: 20px">
